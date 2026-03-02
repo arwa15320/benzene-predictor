@@ -1,6 +1,6 @@
 # Air Quality — Benzene Concentration Predictor
 ### CSAI-801 Artificial Intelligence & Machine Learning
-**Group 17 | Mohamed Mahmoud Abdel Majid & Arwa Elgazar | Winter 2026**
+
 
 ---
 
